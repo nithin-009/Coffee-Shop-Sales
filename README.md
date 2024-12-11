@@ -39,4 +39,4 @@ The Coffee Shop Sales Analysis project focuses on examining sales data to gain i
 
 ## Contact
 
-For any questions or feedback, feel free to reach out via email at [pujithajonnalagadda.4444@gmail.com](mailto:pujithajonnalagadda.4444@gmail.com).
+For any questions or feedback, feel free to reach out via email at [vnithin003@gmail.com](mailto:vnithin003@gmail.com).
